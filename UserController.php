@@ -6,7 +6,7 @@
   *
   *
 **/
-
+<?php
 class UserController
 {
 	public function update(Request $request)
